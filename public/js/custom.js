@@ -35,7 +35,7 @@
     // Banner Carousel
     var myCarousel = document.querySelector('#myCarousel')
     var carousel = new bootstrap.Carousel(myCarousel, {
-      interval: 5000,
+      interval: 8000,
     })
 
     // REVIEWS NAVIGATION
